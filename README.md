@@ -12,8 +12,14 @@ Simple Tic Tac Toe game created using SwiftUI.
 
 # General info
 
+I created this Tic-Tac-Toe using a Sean Allen's video tutorial. I am always glad to learn and practice something new that is available for free on the Internet!
+This games helped me understand how to implement some basic AI logic and basic refactoring
+
 # Technologies
+
+-SwftUI
 
 # Ilustrations
 
 # Inspirations
+I am
